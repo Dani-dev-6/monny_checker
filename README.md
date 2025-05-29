@@ -1,1 +1,0 @@
-# monny_checker
